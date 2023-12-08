@@ -1,0 +1,19 @@
+{
+    "users": [
+        {
+            "name":"Raj",
+            "age":"22",
+            "department":"IT"
+        },
+        {
+            "name":"Virat",
+            "age":"23",
+            "department":"Marketing"
+        },
+        {
+            "name":"Rohit",
+            "age":"21",
+            "department":"Finance"
+        }
+    ]
+}
